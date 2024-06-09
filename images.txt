@@ -14,3 +14,27 @@ mysql:5.7
 biarms/mysql:5.7.30-linux-arm64v8
 mongo:4.4
 emqx/emqx:5.3.1
+apache/apisix-dashboard:2.10.1-alpine
+apache/apisix:2.13.0-alpine
+bitnami/etcd:3.4.15
+prom/prometheus:v2.25.0
+grafana/grafana:7.3.7
+apache/apisix:3.7.0-debian
+rancher/coreos-etcd:v3.4.15-arm64
+flashcatcloud/nightingale:7.0.0-beta.10
+victoriametrics/victoria-metrics:v1.79.12
+bitnami/kafka:3.4
+bitnami/zookeeper:3.9
+flashcatcloud/categraf:v0.3.3
+ulric2019/ibex:0.3
+flashcatcloud/nightingale:6.5.0
+registry:2
+snowdreamtech/frps:0.45.0
+snowdreamtech/frpc:0.45.0
+elastic/filebeat:7.6.2
+elasticsearch:7.7.0
+kibana:7.7.0
+logstash:7.7.0
+quay.io/keycloak/keycloak:21.1.1 start-dev
+mouday/domain-admin:v1.6.30
+linkease/linkease:1.5.6
