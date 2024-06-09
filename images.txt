@@ -42,3 +42,4 @@ flink:1.17.2-scala_2.12-java8
 flink:1.17.2-scala_2.12-java11
 flink:1.18.1-scala_2.12-java17
 flink:1.18.1-scala_2.12-java11
+okdinfrak8s/node-14-alpine:latest
