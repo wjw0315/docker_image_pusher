@@ -46,3 +46,7 @@ flink:1.17-scala_2.12-java8
 dinkydocker/dinky:1.0.3-flink1.17
 okdinfrak8s/node-14-alpine:latest
 joxit/docker-registry-ui:main
+infiniflow/ragflow:v0.7.0
+infiniflow/ragflow:dev
+redis:7.0.15-alpine3.20
+elasticsearch:8.13.4
