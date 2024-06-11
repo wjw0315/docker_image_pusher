@@ -52,3 +52,5 @@ redis:7.0.15-alpine3.20
 elasticsearch:8.13.4
 qingpan/rnacos:v0.5.11-alpine
 qingpan/rnacos:v0.5.11
+jenkins/jenkins:jdk21
+
