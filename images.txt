@@ -1,2 +1,1 @@
-qingpan/rnacos:v0.5.11-alpine
-qingpan/rnacos:v0.5.11
+jenkins/jenkins:jdk21
