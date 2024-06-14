@@ -1,10 +1,1 @@
-clickhouse/clickhouse-server:24.1.2-alpine
-bitnami/zookeeper:3.7.1
-signoz/alertmanager:0.23.5
-signoz/query-service:0.47.0
-signoz/frontend:0.47.0
-signoz/signoz-schema-migrator:0.88.26
-signoz/signoz-otel-collector:0.88.26
-gliderlabs/logspout:v3.2.14
-jaegertracing/example-hotrod:1.30
-signoz/locust:1.2.3
+mongo:8.0-rc
