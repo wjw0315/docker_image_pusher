@@ -1,1 +1,1 @@
-mongo:8.0-rc
+mouday/domain-admin:v1.6.34
