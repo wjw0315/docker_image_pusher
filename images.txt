@@ -69,3 +69,4 @@ nacos/nacos-server:v2.3.1
 nacos/nacos-server:v2.3.1-slim
 graylog/graylog:4.2
 graylog/graylog:6.0
+mongo:6.0.14
