@@ -73,3 +73,4 @@ mongo:6.0.14
 docmost/docmost:0.2.7
 postgres:16-alpine
 redis:7.2-alpine
+zinclabs/openobserve:latest
