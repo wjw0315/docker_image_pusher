@@ -1,1 +1,1 @@
-zinclabs/openobserve:latest
+docmost/docmost:0.2.10
