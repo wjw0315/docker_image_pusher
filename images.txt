@@ -1,1 +1,1 @@
-elastic/filebeat:7.15.0
+timberio/vector:0.40.0-debian
