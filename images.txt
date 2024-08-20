@@ -1,1 +1,1 @@
-easytier/easytier:1.2.2
+easytier/easytier:v1.2.2
