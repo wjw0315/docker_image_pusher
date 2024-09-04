@@ -1,1 +1,2 @@
-easytier/easytier:v1.2.2
+mysql:8.0.31
+nacos/nacos-server:v2.4.1
