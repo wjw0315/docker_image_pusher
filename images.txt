@@ -1,1 +1,1 @@
-docmost/docmost:0.3.1
+easytier/easytier:v1.2.3
