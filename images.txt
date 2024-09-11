@@ -76,5 +76,5 @@ redis:7.2-alpine
 zinclabs/openobserve:latest
 prom/prometheus
 victoriametrics/victoria-metrics:v1.79.12
-flashcatcloud/nightingale:v7.3.4
+flashcatcloud/nightingale:7.3.4
 flashcatcloud/categraf:v0.3.78
