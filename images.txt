@@ -1,4 +1,9 @@
-prom/prometheus
-victoriametrics/victoria-metrics:v1.79.12
-flashcatcloud/nightingale:7.3.4
-flashcatcloud/categraf:v0.3.78
+redis:4.0.10
+erdonline/erd-mysql:5.0.0
+erdonline/erd-nacos:5.0.0
+erdonline/erd-zerocode:5.0.0
+erdonline/erd-gateway:5.0.0
+erdonline/erd-auth:5.0.0
+erdonline/erd-system:5.0.0
+erdonline/erd-ui:5.0.0
+erdonline/erd-minio:5.0.0
