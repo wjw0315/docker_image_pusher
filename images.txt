@@ -1,9 +1,9 @@
 redis:4.0.10
-erdonline/erd-mysql:5.0.0
-erdonline/erd-nacos:5.0.0
-erdonline/erd-zerocode:5.0.0
-erdonline/erd-gateway:5.0.0
-erdonline/erd-auth:5.0.0
-erdonline/erd-system:5.0.0
-erdonline/erd-ui:5.0.0
-erdonline/erd-minio:5.0.0
+erdonline/erd-mysql:4.1.0
+erdonline/erd-nacos:4.1.0
+erdonline/erd-zerocode:4.1.0
+erdonline/erd-gateway:4.1.0
+erdonline/erd-auth:4.1.0
+erdonline/erd-system:4.1.0
+erdonline/erd-ui:4.1.0
+erdonline/erd-minio:4.1.0
