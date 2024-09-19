@@ -1,9 +1,1 @@
-redis:4.0.10
-erdonline/erd-mysql:4.1.0
-erdonline/erd-nacos:4.1.0
-erdonline/erd-zerocode:4.1.0
-erdonline/erd-gateway:4.1.0
-erdonline/erd-auth:4.1.0
-erdonline/erd-system:4.1.0
-erdonline/erd-ui:4.1.0
-erdonline/erd-minio:4.1.0
+yeelabs/yearning:v3.1.8
