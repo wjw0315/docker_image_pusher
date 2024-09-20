@@ -1,1 +1,3 @@
-yeelabs/yearning:v3.1.8
+ffdfgdfg/nps:v0.26.10
+ffdfgdfg/npc:v0.26.10
+
