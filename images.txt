@@ -1,3 +1,2 @@
-apache/apisix:3.10.0-debian
-rancher/coreos-etcd:v3.4.15-arm64
-apache/apisix-dashboard:3.0.1-alpine
+apache/apisix:3.9.1-debian
+
