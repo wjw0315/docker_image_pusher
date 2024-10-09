@@ -1,2 +1,2 @@
-apache/apisix:3.9.1-debian
+apache/apisix:3.10.0-debian-arm64
 
