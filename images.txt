@@ -1,1 +1,2 @@
-7.4-alpine
+redis:7.4.1-alpine
+rabbitmq:3.8.7-management-alpine
