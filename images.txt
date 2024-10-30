@@ -1,1 +1,1 @@
-docmost/docmost:0.4.1
+docmost/docmost:0.5.0
