@@ -1,1 +1,3 @@
-apache/apisix:3.10.0-debian
+bitnami/etcd:3.5.11
+apache/apisix:3.11.0-debian
+pache/apisix-dashboard:3.0.1
