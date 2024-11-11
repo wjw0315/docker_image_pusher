@@ -1,1 +1,1 @@
-docmost/docmost:0.5.0
+apache/apisix:3.10.0-debian
