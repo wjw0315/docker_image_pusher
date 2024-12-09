@@ -1,2 +1,1 @@
-victoriametrics/victoria-metrics:v1.95.1
-apache/hertzbeat
+easytier/easytier:v2.0.3
