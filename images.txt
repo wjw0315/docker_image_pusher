@@ -1,1 +1,1 @@
-easytier/easytier:v2.0.3
+mongo/mongo:4.4
