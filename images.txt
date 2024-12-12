@@ -1,1 +1,1 @@
-node:18.0.0
+docmost/docmost:v0.6.1
