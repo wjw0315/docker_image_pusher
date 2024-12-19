@@ -1,1 +1,1 @@
-docmost/docmost:0.6.2
+flashcatcloud/categraf:v0.3.84
