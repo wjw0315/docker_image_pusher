@@ -1,1 +1,1 @@
-flashcatcloud/categraf:v0.3.84
+easytier/easytier:v2.1.0
