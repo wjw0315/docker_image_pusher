@@ -1,3 +1,1 @@
-elasticsearch:6.8.1
-apache/skywalking-oap-server:8.5.0-es6
-apache/skywalking-ui:8.5.0
+gitlab/gitlab-ce:13.12.15-ce.0
