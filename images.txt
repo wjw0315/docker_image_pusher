@@ -1,1 +1,2 @@
-easytier/easytier:v2.1.1
+openjdk:8-bullseye
+openjdk:11-bullseye
