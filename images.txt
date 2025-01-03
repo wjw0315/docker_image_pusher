@@ -1,1 +1,1 @@
-gitlab/gitlab-ce:13.12.15-ce.0
+easytier/easytier:v2.1.1
