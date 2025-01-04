@@ -1,2 +1,1 @@
-openjdk:8-bullseye
-openjdk:11-bullseye
+zookeeper:3.5.7
