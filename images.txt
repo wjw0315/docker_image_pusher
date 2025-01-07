@@ -1,1 +1,3 @@
-zookeeper:3.5.7
+alpine:latest
+golang:1.19
+node:16-alpine
