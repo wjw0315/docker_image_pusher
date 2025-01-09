@@ -1,3 +1,2 @@
-alpine:latest
-golang:1.19
-node:16-alpine
+aoshiguchen/neutrino-proxy-server:latest
+aoshiguchen/neutrino-proxy-client:latest
