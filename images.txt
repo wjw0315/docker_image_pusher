@@ -1,2 +1,1 @@
-aoshiguchen/neutrino-proxy-server:latest
-aoshiguchen/neutrino-proxy-client:latest
+easytier/easytier:v2.1.2
