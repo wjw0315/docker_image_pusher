@@ -1,1 +1,9 @@
-docmost/docmost:0.7.0
+clickhouse/clickhouse-server:24.1.2-alpine
+bitnami/zookeeper:3.7.1
+signoz/alertmanager:0.23.7
+signoz/query-service:0.69.0
+signoz/frontend:0.69.0
+signoz/signoz-schema-migrator:0.111.24
+signoz/signoz-schema-migrator:0.111.24
+signoz/signoz-otel-collector:0.111.24
+gliderlabs/logspout:v3.2.14
