@@ -1,3 +1,6 @@
-signoz/query-service:0.70.1
-signoz/frontend:0.70.1
-signoz/signoz-otel-collector:0.111.25
+signoz/query-service:0.71.0
+signoz/frontend:0.71.0
+signoz/signoz-otel-collector:0.111.26
+teableio/teable:latest
+teableio/teable-db-migrate:latest
+postgres:15.4
