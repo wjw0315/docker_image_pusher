@@ -1,1 +1,3 @@
-nginx
+signoz/query-service:0.72.0
+signoz/frontend:0.72.0
+signoz/signoz-otel-collector:0.111.27
