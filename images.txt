@@ -1,3 +1,6 @@
-signoz/query-service:0.72.0
-signoz/frontend:0.72.0
-signoz/signoz-otel-collector:0.111.27
+apache/apisix-dashboard:2.15.1-alpine
+apache/apisix:2.15.3-alpine
+bitnami/etcd:3.4.15
+nginx:1.19.0-alpine
+prom/prometheus:v2.25.0
+grafana/grafana:7.3.7
