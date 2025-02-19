@@ -1,2 +1,2 @@
-apache/apisix:2.99.0-debian
-apache/apisix-dashboard:2.13-alpine
+apache/apisix-dashboard:2.10.1-alpine
+apache/apisix:2.14.1-alpine
