@@ -2,3 +2,4 @@ postgres:16
 windmill-labs/windmill-lsp:latest
 windmill-labs/windmill-multiplayer:latest
 windmill-labs/caddy-l4:latest
+windmill-labs/windmill:main
