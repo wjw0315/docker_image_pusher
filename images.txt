@@ -1,1 +1,1 @@
-docmost/docmost:v0.8.3
+docmost/docmost:0.8.3
