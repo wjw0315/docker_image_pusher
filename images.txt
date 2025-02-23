@@ -1,1 +1,4 @@
-docmost/docmost:0.8.3
+postgres:16
+windmill-labs/windmill-lsp:latest
+windmill-labs/windmill-multiplayer:latest
+windmill-labs/caddy-l4:latest
