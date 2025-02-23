@@ -1,2 +1,1 @@
-apache/apisix-dashboard:2.10.1-alpine
-apache/apisix:2.14.1-alpine
+docmost/docmost:v0.8.3
