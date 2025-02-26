@@ -1,5 +1,4 @@
-postgres:16
-windmill-labs/windmill-lsp:latest
-windmill-labs/windmill-multiplayer:latest
-windmill-labs/caddy-l4:latest
-windmill-labs/windmill:main
+signoz/query-service:0.73.0
+signoz/frontend:0.73.0
+signoz/signoz-schema-migrator:0.111.29
+signoz/signoz-otel-collector:0.111.29
