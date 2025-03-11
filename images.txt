@@ -1,4 +1,1 @@
-signoz/query-service:0.73.0
-signoz/frontend:0.73.0
-signoz/signoz-schema-migrator:0.111.29
-signoz/signoz-otel-collector:0.111.29
+docker.io/apecloud/ape-dts:2.0.22
