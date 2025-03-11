@@ -1,1 +1,1 @@
-docker.io/apecloud/ape-dts:2.0.22
+apecloud/ape-dts:2.0.21
