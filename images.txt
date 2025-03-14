@@ -1,1 +1,1 @@
-jc3wish/bifrost
+dokploy/dokploy:latest
