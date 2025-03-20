@@ -1,4 +1,1 @@
-ghcr.io/chroma-core/chroma:0.5.20
-downloads.unstructured.io/unstructured-io/unstructured-api:latest
-quay.io/oceanbase/oceanbase-ce:4.3.3.0-100000142024101215
-container-registry.oracle.com/database/free:latest
+couchbase/server:latest
