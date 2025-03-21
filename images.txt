@@ -1,1 +1,1 @@
-couchbase/server:latest
+caddy:latest
