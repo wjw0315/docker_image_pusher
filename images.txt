@@ -1,1 +1,1 @@
-jc21/nginx-proxy-manager:latest
+docmost/docmost:0.8.4
