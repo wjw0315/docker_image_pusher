@@ -1,2 +1,2 @@
-softethervpn/vpnclient:latest
-softethervpn/vpnserver:latest
+postgres:16
+kestra/kestra:latest
