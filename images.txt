@@ -1,2 +1,2 @@
-postgres:16
-kestra/kestra:latest
+postgres
+ghcr.io/azimuttapp/azimutt:main
