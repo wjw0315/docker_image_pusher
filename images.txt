@@ -3,4 +3,3 @@ mysql:8.0
 phpmyadmin:5.2
 migrate/migrate
 tomcat:7.0.61-jre8
-
