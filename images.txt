@@ -1,1 +1,2 @@
-docker.n8n.io/n8nio/n8n
+proxysql/proxysql:2.5.2
+proxysql/proxysql:2.7.3
