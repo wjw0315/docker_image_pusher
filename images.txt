@@ -1,5 +1,1 @@
-node:10-alpine as frontend
-mysql:8.0
-phpmyadmin:5.2
-migrate/migrate
-tomcat:7.0.61-jre8
+docker.n8n.io/n8nio/n8n
