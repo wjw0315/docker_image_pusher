@@ -1,2 +1,2 @@
-proxysql/proxysql:2.5.2
-proxysql/proxysql:2.7.3
+proxysql/proxysql:2.7.1-debian
+dotfinity/proxysql-admin-ui:latest
