@@ -1,1 +1,1 @@
-proxysql/proxysql:2.7.1-debian
+percona/proxysql-exporter:0.4.0
