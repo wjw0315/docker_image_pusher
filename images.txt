@@ -1,1 +1,1 @@
-percona/proxysql-exporter:0.4.0
+kubedb/proxysql-exporter:v1.1.2
