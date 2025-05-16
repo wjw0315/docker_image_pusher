@@ -1,1 +1,1 @@
-kubedb/proxysql-exporter:v1.1.2
+apecloud/ape-dts:2.0.23
