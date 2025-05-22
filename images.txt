@@ -1,1 +1,2 @@
-rundeck/rundeck:SNAPSHOT
+percona-xtrabackup:8.0.35
+percona-xtrabackup:2.4.35
