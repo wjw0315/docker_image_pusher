@@ -1,4 +1,1 @@
-signoz/signoz:v0.84.1
-signoz/signoz-otel-collector:v0.111.41
-signoz/signoz-schema-migrator:v0.111.41
-signoz/signoz-schema-migrator:v0.111.41
+docker.n8n.io/n8nio/n8n
