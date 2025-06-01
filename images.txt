@@ -1,1 +1,1 @@
-fosrl/newt
+huacnlee/gobackup:latest
