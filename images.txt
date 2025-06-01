@@ -1,1 +1,3 @@
-docker.n8n.io/n8nio/n8n
+sianhh/gostc-admin:latest
+sianhh/gostc:latest
+sianhh/gostc-proxy:latest
