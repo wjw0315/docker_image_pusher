@@ -1,1 +1,1 @@
-lscr.io/linuxserver/duplicati
+huacnlee/gobackup:latest
