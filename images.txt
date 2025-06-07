@@ -1,1 +1,1 @@
-huacnlee/gobackup:latest
+openjdk:8u342-jre
