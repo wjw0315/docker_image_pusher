@@ -1,1 +1,1 @@
-openjdk:8u342-jre
+sianhh/gostc:latest
