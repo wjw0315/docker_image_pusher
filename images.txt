@@ -1,1 +1,2 @@
-sianhh/gostc:latest
+postgres:17.5-alpine
+mysql:8.4.5
