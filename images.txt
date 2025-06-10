@@ -1,2 +1,1 @@
-postgres:17.5-alpine
-mysql:8.4.5
+mysql:8.0.42
