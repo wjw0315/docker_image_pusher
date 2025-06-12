@@ -1,2 +1,1 @@
-canal/canal-server:v1.1.7
-canal/canal-server:v1.1.8
+uozi/nginx-ui:latest
