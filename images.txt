@@ -1,1 +1,1 @@
-uozi/nginx-ui:latest
+easytier/easytier:latest
