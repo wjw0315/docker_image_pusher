@@ -1,2 +1,2 @@
-jpomdocker/runs_ubuntu-latest:latest
-
+eric096/ubuntu-latest:7.1.4
+jpomdocker/jpom:latest
