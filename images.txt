@@ -1,2 +1,1 @@
-openjdk:11-jre-slim
-openjdk:8-jre-slim
+jpomdocker/runs_ubuntu-latest:latest
