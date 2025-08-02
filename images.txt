@@ -1,4 +1,1 @@
-registry.cn-zhangjiakou.aliyuncs.com/dbdoctor/dbdoctor:3.3.0.0_x86
-registry.cn-zhangjiakou.aliyuncs.com/dbdoctor/dbdoctor-agent:3.3.0.0_x86
-registry.cn-zhangjiakou.aliyuncs.com/dbdoctor/dbdoctor:3.3.0.0_arm
-registry.cn-zhangjiakou.aliyuncs.com/dbdoctor/dbdoctor-agent:3.3.0.0_arm
+sianhh/gostc:latest
