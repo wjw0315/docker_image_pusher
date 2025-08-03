@@ -1,1 +1,1 @@
-sianhh/gostc:latest
+flashcatcloud/nightingale:latest
