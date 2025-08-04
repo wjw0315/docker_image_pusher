@@ -1,1 +1,1 @@
-flashcatcloud/nightingale:latest
+openjdk:8-jre-slim
