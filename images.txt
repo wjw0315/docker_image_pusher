@@ -1,4 +1,1 @@
-redis:5
-mysql:5.7
-hanchuanchuan/goinception
-hhyo/archery:v1.12.0
+garethgeorge/backrest:latest
