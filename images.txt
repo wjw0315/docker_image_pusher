@@ -1,3 +1,2 @@
 canal/canal-server:v1.1.8
-build-env:latest
 canal/canal-admin:v1.1.8
