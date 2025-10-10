@@ -1,1 +1,1 @@
-easytier/easytier:latest
+node:20-alpine
