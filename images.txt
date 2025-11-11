@@ -1,1 +1,4 @@
-eclipse-temurin:21-jre
+signoz/signoz:v0.100.1
+signoz/signoz-otel-collector:v0.129.8
+signoz/signoz-schema-migrator:v0.129.8
+signoz/signoz-schema-migrator:v0.129.8
