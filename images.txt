@@ -1,2 +1,4 @@
-apache/rocketmq:4.9.7
-apacherocketmq/rocketmq-dashboard:1.0.0
+apache/rocketmq:5.3.0
+apache/rocketmq:5.3.0
+apache/rocketmq:5.3.0
+apacherocketmq/rocketmq-dashboard:latest
