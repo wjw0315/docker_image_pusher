@@ -1,1 +1,1 @@
-databasus/databasus:latest
+databasus/databasus:v3.11.0
