@@ -1,1 +1,1 @@
-openclaw:local
+databasus/databasus:latest
