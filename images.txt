@@ -1,1 +1,1 @@
-certimate/certimate:latest
+certimate/certimate:v0.3.27
