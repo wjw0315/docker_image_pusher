@@ -1,1 +1,2 @@
-certimate/certimate:v0.3.27
+apache/rocketmq:4.9.6
+apache/rocketmq-dashboard:latest
