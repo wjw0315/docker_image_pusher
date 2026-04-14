@@ -1,1 +1,1 @@
-flashcatcloud/nightingale:latest
+databasus/databasus:latest
