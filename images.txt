@@ -1,1 +1,1 @@
-mouday/domain-admin:latest
+databasus/databasus:v3.42.0
